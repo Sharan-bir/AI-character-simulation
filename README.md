@@ -20,10 +20,6 @@ This project includes a custom loading screen, animated character on the menu, a
 
 project/
 │── assets/
-│ ├── characters/
-│ │ └── menu_girl/front_Idle_0–5.png
-│ ├── font/Audiowide-Regular.ttf
-│ └── music/bg_music.mp3
 │── config.py
 │── asset_loader.py
 │── loading_screen.py
@@ -31,7 +27,6 @@ project/
 │── main.py
 │── requirements.txt
 └── README.md
-
 
 ---
 
@@ -44,8 +39,9 @@ project/
 python -m venv venv
 venv\Scripts\activate
 ```
+---
 OR
-
+---
 #### Linux:
 ```bash
 python3 -m venv venv
