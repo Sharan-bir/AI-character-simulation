@@ -1,6 +1,6 @@
 # AI-Character Simulation (Pygame)
 
-A 2D game built with **Pygame** featuring animated sprites, loading screens, background music, and an interactive menu system.  
+A 2D game built with **Pygame** to simulate the game characters with help of llm.
 This project includes a custom loading screen, animated character on the menu, and smooth UI transitions.
 
 ---
@@ -39,24 +39,26 @@ project/
 python -m venv venv
 venv\Scripts\activate
 ```
----
+
 OR
----
+
 #### Linux:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
+---
 
 #### Install all Required packages:
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 #### Run the game: 
 ```bash
 python main.py
 ```
-
+---
 #### Contributions :
 Feel free to fork the repo and submit pull requests!
